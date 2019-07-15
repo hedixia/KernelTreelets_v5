@@ -10,9 +10,9 @@ A more detailed explanation about Kernel Treelets can be found in arXiv (https:/
 The paper is accepted by Advances in Data Science and Adaptive Analysis.
 The most recent test version is at https://github.com/hedixia/KernelTreelets_v5.
 
-This repo is only for testing the examples in the paper above. 
-The implementation may not be fully optimized and it is still under construction as the setup files are not yet finished. 
-Currently it can be used by copying all files in the main folder with .py extensions to the path of the executed file. 
+Examples in the paper are included as jupyter notebooks. 
+The implementation may not be fully optimized. 
+Prior to running the notebooks, you may need to install Kernel Treelets with command 'pip install KernelTreelets'.
 
 For more infomation about Kernel Method, see (https://en.wikipedia.org/wiki/Kernel_method).
 
