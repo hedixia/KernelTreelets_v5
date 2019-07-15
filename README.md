@@ -12,7 +12,7 @@ The most recent test version is at https://github.com/hedixia/KernelTreelets_v5.
 
 Examples in the paper are included as jupyter notebooks. 
 The implementation may not be fully optimized. 
-Prior to running the notebooks, you may need to install Kernel Treelets with command '''python pip install KernelTreelets'''.
+Prior to running the notebooks, you may need to install Kernel Treelets with command ```python pip install KernelTreelets```.
 
 For more infomation about Kernel Method, see (https://en.wikipedia.org/wiki/Kernel_method).
 
